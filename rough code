@@ -1,0 +1,2 @@
+expect(result).to.equal('Hello, Alice');
+expect(result).to.equal('Hello, Bob');
